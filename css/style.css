@@ -1,0 +1,14 @@
+#tooltip {
+  justify-content: center;
+  position: absolute;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  padding: 2px;
+  background: #bfbfbf;
+  border-radius: 5px;
+}
+.cell:hover {
+	stroke: green;
+
+}
